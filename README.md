@@ -6,7 +6,7 @@ Assignments uploaded
 Planning and design phase completed
 
 
-Software Required:
+SOFTWARE REQUIRED:
 
 
       Python, Flask , Docker System Required: 8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
