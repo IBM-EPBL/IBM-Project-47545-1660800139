@@ -8,7 +8,6 @@ Planning and design phase completed
 
 SOFTWARE REQUIRED:
 
-
-      Python, Flask , Docker System Required: 8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
+Python, Flask, Docker System Required:8GB RAM,Intel Core i3,OS-Windows/Linux/Max,Laptop or Desktop
       
 
