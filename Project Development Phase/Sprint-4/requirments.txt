@@ -1,0 +1,6 @@
+flask
+sendgrid
+ibm_db
+python-dotenv
+Jinja2
+Footer
